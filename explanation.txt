@@ -1,0 +1,13 @@
+i never really thought anyone else would ever see this code so i didnt comment like an idiot
+so i probably have to explain why it exists and what it does
+1)why does it exist:
+i was board one day and i was coding a really bad c# app then i realized i could just automate it
+even just a little bit
+2)what does it do:
+it can make skeletons of a basic c# application
+	2.5)why?:
+		because fuck you thats why
+3)america explain:
+ok so it writes to the file with the extension of .cs in the syntax of c# in a loop
+it can check how many brackets you need to add
+you can still fuck up so be wary 
