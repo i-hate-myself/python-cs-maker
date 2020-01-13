@@ -10,4 +10,6 @@ it can make skeletons of a basic c# application
 3)america explain:
 ok so it writes to the file with the extension of .cs in the syntax of c# in a loop
 it can check how many brackets you need to add
-you can still fuck up so be wary 
+you can still fuck up so be wary
+
+so yeah thats it (this was mainly an experement and could be done alot better
